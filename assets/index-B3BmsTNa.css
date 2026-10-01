@@ -1074,6 +1074,11 @@
         text-underline-offset: 4px
     }
 
+
+    .aspect-\\[8\\/5\\] {
+        aspect-ratio: 8 / 5
+    }
+
     .shadow-sm {
         --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color,#0000001a), 0 1px 2px -1px var(--tw-shadow-color,#0000001a);
         box-shadow: var(--tw-inset-shadow),var(--tw-inset-ring-shadow),var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow)
